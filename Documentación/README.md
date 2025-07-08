@@ -7,7 +7,7 @@ En esta carpeta encontraremos los archivos de nuestro proyecto "Tu amiga Titi":
 En el anteproyecto se encuentra la propuesta del proyecto con las ideas que deseábamos alcanzar.
 - 📎 [Ir al Anteproyecto](Anteproyecto_Tu_amiga_Titi.pdf)
 
-## 📝Informe-Tu-amiga-Titi en PDF
+## 📄Informe-Tu-amiga-Titi en PDF
 Luego tenemos el informe, donde plasmamos el proceso de trabajo del proyecto.
 - 📎 [Ir al Informe](Informe-Tu-amiga-Titi.pdf)
 
@@ -17,3 +17,4 @@ Aquí se encuentra el link del tutorial de como armamos el prototipo, el código
 
 ## 💻Presentación
 Por último, tenemos la presentación que se utilizara para la defensa del proyecto.
+- 📎 [Ir a la presentación](TU%20AMIGA%20TITI.pdf)
