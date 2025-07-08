@@ -11,7 +11,7 @@ En el anteproyecto se encuentra la propuesta del proyecto con las ideas que dese
 Luego tenemos el informe, donde plasmamos el proceso de trabajo del proyecto.
 - 📎 [Ir al Informe](Informe-Tu-amiga-Titi.pdf)
 
-## Tutorial 
+## 🎥Tutorial 
 Aquí se encuentra el link del tutorial de como armamos el prototipo, el código en Arduino IDE, y la aplicación en APP Inventor.
 - 📎 [Ir al Video Tutorial](Video_Tutorial_Tu_Amiga_Titi.md)
 
