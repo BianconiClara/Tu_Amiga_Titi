@@ -15,7 +15,7 @@ Archivo en formato BRD del diseño electrónico del proyecto.
 
 ### *Diseño Electrónico - Tinkercad*
 Imagen del diseño electrónico generado en Tinkercad.
-📎 [Ir al Diseño_Electrónico_Tinkercard.md](Diseño_Electrónico_Tinkercard.md)
+📎 [Ir al Diseño_Electrónico_Tinkercard.md](Diseño_Electronico_Tinkercard.md)
 
 ### *Diseño Electrónico - Edición*
 Imagen del diseño electrónico creado en Tinkercad y editado en Photoshop para mejorar la visualización de los componentes del proyecto.
