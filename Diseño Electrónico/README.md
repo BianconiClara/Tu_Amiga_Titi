@@ -9,6 +9,7 @@ Representación del diseño del circuito electrónico creado en AutoDesk.
 
 ### *Diseño Electrónico - Archivo titi.brd*
 Archivo en formato BRD del diseño electrónico del proyecto.
+📎 [Descargar titi.brd](Diseño%20Electrónico/Archivo%20titi.brd)
 
 ### *Diseño Electrónico - Tinkercad*
 Imagen del diseño electrónico generado en Tinkercad.
