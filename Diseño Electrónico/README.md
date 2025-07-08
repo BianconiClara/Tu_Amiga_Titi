@@ -18,7 +18,7 @@ Imagen del diseño electrónico generado en Tinkercad.
 📎 [Ir al Diseño_Electrónico_Tinkercard.md](Diseño_Electronico_Tinkercard.md)
 
 ### *Diseño Electrónico - Edición*
-Imagen del diseño electrónico creado en Tinkercad y editado en Photoshop para mejorar la visualización de los componentes del proyecto.
+Imagen del diseño electrónico creado en Tinkercad y editado en Photoshop para mejorar la visualización de los componentes del proyecto. 
 📎 [Ir al Diseño Electrónico-Edición.md](Diseño_Electrónico_Edición.md)
 
 ### ACLARACION
