@@ -4,20 +4,20 @@
 ### Por Bianconi Clara y Ogas Avril:
 En esta carpeta encontraremos los archivos .BRD (archivo CAD) e imagenes del diseño electronico creado en tinkercard de nuestro proyecto "Tu amiga Titi":
 
-### *Diseño del Circuito Electrónico - AutoDesk*
+##  *Diseño del Circuito Electrónico - AutoDesk*
 Representación del diseño del circuito electrónico creado en AutoDesk.
 📎 [Ir al Diseño del Circuito Electrónico-AutoDesk.md](Diseño_Circuito_Electrónico_AutoDesk.md)
 
-### *Diseño Electrónico - Archivo_titi.brd*
+## *Diseño Electrónico - Archivo_titi.brd*
 Archivo en formato BRD del diseño electrónico del proyecto.
 📎 [Ir al Archivo_titi.brd](Archivo_titi.brd)
 
 
-### *Diseño Electrónico - Tinkercad*
+## *Diseño Electrónico - Tinkercad*
 Imagen del diseño electrónico generado en Tinkercad.
 📎 [Ir al Diseño_Electrónico_Tinkercard.md](Diseño_Electronico_Tinkercard.md)
 
-### *Diseño Electrónico - Edición*
+## *Diseño Electrónico - Edición*
 Imagen del diseño electrónico creado en Tinkercad y editado en Photoshop para mejorar la visualización de los componentes del proyecto. 
 📎 [Ir al Diseño Electrónico-Edición.md](Diseño_Electrónico_Edición.md)
 
