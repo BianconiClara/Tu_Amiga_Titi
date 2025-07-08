@@ -13,11 +13,11 @@ Archivo en formato BRD del diseño electrónico del proyecto.
 📎 [Ir al Archivo_titi.brd](Archivo_titi.brd)
 
 
-## *Diseño Electrónico - Tinkercad*
+## 🎨*Diseño Electrónico - Tinkercad*
 Imagen del diseño electrónico generado en Tinkercad.
 📎 [Ir al Diseño_Electrónico_Tinkercard.md](Diseño_Electronico_Tinkercard.md)
 
-## *Diseño Electrónico - Edición*
+## 🎨*Diseño Electrónico - Edición*
 Imagen del diseño electrónico creado en Tinkercad y editado en Photoshop para mejorar la visualización de los componentes del proyecto. 
 📎 [Ir al Diseño Electrónico-Edición.md](Diseño_Electrónico_Edición.md)
 
