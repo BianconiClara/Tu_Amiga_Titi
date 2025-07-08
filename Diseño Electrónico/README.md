@@ -1,5 +1,5 @@
 
-# Diseño Electronico 
+# 📝Diseño Electronico 
 ##### Proyecto LAB I 
 ### Por Bianconi Clara y Ogas Avril:
 En esta carpeta encontraremos los archivos .BRD (archivo CAD) e imagenes del diseño electronico creado en tinkercard de nuestro proyecto "Tu amiga Titi":
