@@ -15,5 +15,5 @@ Luego tenemos el informe, donde plasmamos el proceso de trabajo del proyecto.
 Aquí se encuentra el link del tutorial de como armamos el prototipo, el código en Arduino IDE, y la aplicación en APP Inventor.
 - 📎 [Ir al Video Tutorial](Video_Tutorial_Tu_Amiga_Titi.md)
 
-## Presentación
+## 💻Presentación
 Por último, tenemos la presentación que se utilizara para la defensa del proyecto.
